@@ -1,6 +1,6 @@
 ## Travesia
 
-An application built to showcase random photos that I took in 2016 while I was exploring New York City. 
+I built this application to showcase random photos I took in 2016 while exploring New York City. 
 
 **Link to project:** https://travesia.netlify.app/
 
@@ -18,5 +18,5 @@ An application built to showcase random photos that I took in 2016 while I was e
 - I would add a description to each photo.
 - I would link each photo to its location on Google Maps.
 - I would add more photos from recent years to the portfolio.
-- I would separate the potfolio by year and seasons.
+- I would separate the portfolio by year and season.
 
